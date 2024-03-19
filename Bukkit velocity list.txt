@@ -1,0 +1,63 @@
+B/s = Block per second.
+
+
+Minecraft mathematical points of bukkit spigot 1.20.4 velocity of a tnt launched from a nether star:
+
+
+
+1.0 = 10B/s
+
+1.5 = 17B/s
+
+2.0 = 20B/s
+
+2.5 = 25B/s
+
+3.0 = 30B/s
+
+3.5 = 35B/s
+
+4.0 = 40B/s
+
+4.5 = 45B/s
+
+5.0 = 50B/s
+
+5.5 = 55B/s
+
+6.0 = 60B/s
+
+6.5 = 65B/s
+
+7.0 = 70B/s
+
+7.5 = 75B/s
+
+8.0 = 80B/s
+
+8.5 = 85B/s
+
+9.0 = 90B/s
+
+9.5 = 95B/s
+
+10.0 = 100B/s
+
+
+1000 = Speed of light(1,079,252,848.8 kilometers per hour) or (299792458.000024 meters per hour)B/s
+
+
+Code used for this analysis is below:
+
+tnt.setVelocity(direction.multiply(Unit for velocity for example: 100));
+
+
+
+Test chamber was in Code editor INTELLIj
+
+
+Version ran in: Minecraft Spigot server 1.20.4 released December 7, 2023.
+
+
+
+
